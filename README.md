@@ -26,14 +26,14 @@ Der **HearthAttack-Datensatz** umfasst eine Vielzahl von medizinischen Merkmalen
 ## Projektstruktur
 
 - **Data**: Enthält den HearthAttack-Datensatz.
-  - `heart_attack_data.csv`: Der Datensatz mit medizinischen Informationen und Zielwerten.
+  - `heart.csv`: Der Datensatz mit medizinischen Informationen und Zielwerten.
 - **Notebooks**: Jupyter-Notebook zur Analyse und Vorhersage.
-  - `stroke_prediction.ipynb`: Notebook für die explorative Datenanalyse, Datenvorverarbeitung und Modelltraining.
+  - `Ü - Heart-Attack.ipynb`: Notebook für die explorative Datenanalyse, Datenvorverarbeitung und Modelltraining.
 
 ## Technologien
 
 - **Python**: Hauptprogrammiersprache für Datenanalyse und Modellierung.
-- **Pandas**: Für Datenmanipulation und -analyse.
+- **Pandas & Numpy**: Für Datenmanipulation und -analyse.
 - **Scikit-learn**: Für Machine Learning-Modelle und -Evaluierung.
 - **Matplotlib / Seaborn**: Für die Visualisierung der Daten und Ergebnisse.
 
